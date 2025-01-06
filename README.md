@@ -9,13 +9,6 @@ Dieses Repository stellt portable Tools zur Verfügung, die für den [Datei-Butl
 
 Folgende Tools werden zur Verfügung gestellt:
 
-### Poppler
-
-Poppler rendert PDF-Dokumente in Bild Formate.
-
-- Repo: https://github.com/oschwartz10612/poppler-windows
-- Version: Release 24.08.0-0
-
 ### Tesseract
 
 Tesseract analysiert Bilder und erkennt Buchstaben, Zahlen und Symbole, um daraus lesbaren Text zu generieren.
